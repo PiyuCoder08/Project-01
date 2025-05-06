@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -97,10 +97,9 @@
         Every product is carefully tested for performance and durability, ensuring our customers receive only the 
         best.
         Experience reliability, affordability, and modern design — all in one place.
-    </main>
+   
     <footer>
         Thanks for visiting!
     </footer>
-</body>
-</html>
+
 
